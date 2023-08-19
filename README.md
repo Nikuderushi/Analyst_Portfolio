@@ -39,7 +39,7 @@ In the competitive hospitality landscape, data-driven decision-making is crucial
 5. **Data Exploration:** The dashboard encourages users to delve into the data through user-friendly interfaces. This promotes a deeper understanding of the numbers behind the metrics.
 6. **Powered by Power BI:** The core of this dashboard is built using Microsoft Power BI, a leading business analytics tool. Power BI enables seamless data integration, advanced visualizations, and dynamic reporting.
 
-#[Project 3: Coffee Sales Dashboard ](https://github.com/Nikuderushi/Coffee_Sales_Insights/blob/main/Coffee_house_Dashboard.xlsx)
+# [Project 3: Coffee Sales Dashboard ](https://github.com/Nikuderushi/Coffee_Sales_Insights/blob/main/Coffee_house_Dashboard.xlsx)
 
 ## Summary
 
