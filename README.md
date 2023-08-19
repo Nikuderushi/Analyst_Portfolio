@@ -39,4 +39,23 @@ In the competitive hospitality landscape, data-driven decision-making is crucial
 5. **Data Exploration:** The dashboard encourages users to delve into the data through user-friendly interfaces. This promotes a deeper understanding of the numbers behind the metrics.
 6. **Powered by Power BI:** The core of this dashboard is built using Microsoft Power BI, a leading business analytics tool. Power BI enables seamless data integration, advanced visualizations, and dynamic reporting.
 
+#[Project 3: Coffee Sales Dashboard ]()
+
+## Summary
+
+The Coffee Sales Dashboard is an Excel-based tool designed to provide users with an intuitive and interactive way to explore and analyze coffee sales data. By leveraging Microsoft Excel's capabilities, this dashboard empowers users to make informed decisions and gain insights into key performance indicators (KPIs) related to their coffee sales.
+
+## Features
+
+- **Interactive Filtering:** The dashboard incorporates slicers that allow users to filter data dynamically based on date ranges and coffee types. This interactive feature enhances the user experience by enabling quick exploration of specific segments of the data.
+- **Dynamic Updates:** With the use of PivotTables and slicers, the dashboard ensures that displayed data and visual elements are updated in real-time as users make changes to the filtering criteria. This dynamic behavior provides an accurate and up-to-date view of the data.
+- **Visual Summaries:** The dashboard employs visually appealing "card-like" sections that highlight important KPIs such as total sales and total quantity sold. These sections provide a concise overview of the data and enable users to grasp key insights at a glance.
+
+## Audience
+
+The Coffee Sales Dashboard is ideal for coffee shop owners, managers, data analysts, and anyone interested in gaining insights from coffee sales data. Whether you are looking to track sales trends, identify top-selling coffee types, or evaluate performance over specific time periods, this dashboard offers a user-friendly solution.
+
+
+
+
 
