@@ -21,7 +21,7 @@ The project successfully analyzed Amazon's customer behavior data to uncover sig
 
 For a detailed analysis and insights, refer to the Jupyter Notebook in the repository.
 
-# [Project 2:](https://github.com/Nikuderushi/Revenue_Insights_in_Hospitality_Domain/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain.pbix)
+# [Project 2: Atliq Hospitality Revenue Insights Dashboard](https://github.com/Nikuderushi/Revenue_Insights_in_Hospitality_Domain/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain.pbix)
 
 
 This project focuses on providing a comprehensive and visually appealing dashboard tailored to the hospitality domain, specifically designed for "Atliq," a leading company in the industry. The dashboard offers valuable insights into revenue-related metrics, occupancy rates, key hotel performance indicators, and more.
